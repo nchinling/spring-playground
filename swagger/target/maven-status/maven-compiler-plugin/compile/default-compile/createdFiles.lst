@@ -1,0 +1,3 @@
+com\restservice\rest_service\Greeting.class
+com\restservice\rest_service\GreetingController.class
+com\restservice\rest_service\RestServiceApplication.class
