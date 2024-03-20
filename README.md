@@ -13,10 +13,10 @@ Implementation of Swagger using Open API. Swagger is a powerful framework for de
 ## 4. unittest
 Learning on JUnit 5, a unit testing framework for Java. 
 
-## mockito
+## 5. mockito
 Learning on Mockito, implemented together with JUnit. Mockito is a mocking framework, which allows for creation of mocked objects. 
 
-## Spring-security
+## 6. Spring-security
 Implementation of a basic authentication page using Spring-security
 
 
