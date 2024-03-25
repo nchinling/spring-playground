@@ -20,12 +20,13 @@ Learning on Mockito, implemented together with JUnit. Mockito is a mocking frame
 Implementation of a basic authentication page using Spring-security 
 
 ## 7. Jacoco
-Implementation of Java code coverage. Use mvn test to generate report.
+Implementation of Java code coverage. Use 'mvn test' to generate report.
 
 ## 8. JPA
 Implementation fo Java Persistence API (JPA) on a Customer entity. Data is stored in H2 database. 
 
-
+## 9. Task scheduling
+Implement scheduling of task at fixed intervals. 
 
 
 
