@@ -17,7 +17,13 @@ Learning on JUnit 5, a unit testing framework for Java.
 Learning on Mockito, implemented together with JUnit. Mockito is a mocking framework, which allows for creation of mocked objects. 
 
 ## 6. Spring-security
-Implementation of a basic authentication page using Spring-security
+Implementation of a basic authentication page using Spring-security 
+
+## 7. Jacoco
+Implementation of Java code coverage. Use mvn test to generate report.
+
+## 8. JPA
+Implementation fo Java Persistence API (JPA) on a Customer entity. Data is stored in H2 database. 
 
 
 
