@@ -28,5 +28,8 @@ Implementation fo Java Persistence API (JPA) on a Customer entity. Data is store
 ## 9. Task scheduling
 Implement scheduling of task at fixed intervals. 
 
+## 10. Caching
+Implementation of caching a Spring managed bean, in this case on a simple book repository
+
 
 
