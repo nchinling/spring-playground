@@ -31,5 +31,8 @@ Implement scheduling of task at fixed intervals.
 ## 10. Caching
 Implementation of caching a Spring managed bean, in this case on a simple book repository
 
+## 11. Feign Client
+Implementation of feign client. Good learning
+
 
 
