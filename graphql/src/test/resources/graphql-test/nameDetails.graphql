@@ -1,0 +1,8 @@
+query PersonDetails($name: String) {
+    personByName(name: $name) {
+        id
+        name
+        sex
+        age
+    }
+}
