@@ -27,5 +27,8 @@ A repository for me to experiment with Spring/Spring Boot concepts
 
 * 13. GraphQL - Built a GraphQL service, running the query and writing a GraphQL test
 
+* 14. Exception handling - Handling exception at the controller level with annotations @ControllerAdvice and @ExceptionHandler
+
+
 
 
