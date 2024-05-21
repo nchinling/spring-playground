@@ -29,6 +29,8 @@ A repository for me to experiment with Spring/Spring Boot concepts
 
 * 14. Exception handling - Handling exception at the controller level with annotations @ControllerAdvice and @ExceptionHandler
 
+* 15. Redis messaging - uses a publish-subscribe (pub/sub) messaging paradigm, where messages are published to a channel and any subscribers to that channel will receive the messages.
+
 
 
 
